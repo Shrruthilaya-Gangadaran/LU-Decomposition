@@ -42,7 +42,7 @@ print(U)
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
-# 5.B) LU Decomposition without zero on the diagonal
+# 5.B) Using LU Decomposition to solve a matrix
 
 ## AIM:
 To write a program to find the LU Decomposition to solve the matrix.
